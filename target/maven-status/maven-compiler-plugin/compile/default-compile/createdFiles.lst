@@ -1,0 +1,4 @@
+com/coder/web/rest/service/FilmService.class
+com/coder/web/rest/service/Film.class
+com/coder/web/rest/start/Application.class
+com/coder/web/rest/controller/FilmsController.class

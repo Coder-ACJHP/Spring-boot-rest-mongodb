@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Springboot-Rest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MacbookPro
+Implementation-Vendor-Id: com.coder.web.rest
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/Springboot-R
+ est-Test/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
