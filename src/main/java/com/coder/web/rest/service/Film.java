@@ -3,7 +3,10 @@ package com.coder.web.rest.service;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
+
 @Document(collection = "Film")
+@JsonDeserialize(as=Film.class)
 public class Film {
 
 	@Id
